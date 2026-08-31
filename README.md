@@ -188,51 +188,22 @@ The application provides feedback for invalid operations and unsuccessful reques
 
 
 
-\## 📱 Application Screenshots
+## 📱 Application Screenshots
 
+### Create Account
+![Create Account](./Screenshots/img1.png)
 
+### Accounts
+![Accounts](./Screenshots/img2.png)
 
-\### Create Account
+### Deposit Money
+![Deposit Money](./Screenshots/img3.png)
 
+### Withdraw Money
+![Withdraw Money](./Screenshots/img4.png)
 
-
-!\[Create Account](Screenshots/img%201.png)
-
-
-
-\### Accounts
-
-
-
-!\[Accounts](Screenshots/img%202.png)
-
-
-
-\### Deposit Money
-
-
-
-!\[Deposit Money](Screenshots/img%203.png)
-
-
-
-\### Withdraw Money
-
-
-
-!\[Withdraw Money](Screenshots/img%204.png)
-
-
-
-\### Transfer Money
-
-
-
-!\[Transfer Money](Screenshots/img%205.png)
-
-
-
-\---
+### Transfer Money
+![Transfer Money](./Screenshots/img5.png)
 
 
 
